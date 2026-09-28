@@ -1,1 +1,6 @@
-body{margin:0;background:#111;color:#fff;font-family:Arial}.hero{text-align:center;padding:60px}.logo{width:180px;border-radius:50%}.btn{display:inline-block;padding:14px 24px;background:#d4af37;color:#000;text-decoration:none;border-radius:8px}
+body{margin:0;background:#090909;color:#fff;font-family:Arial}
+.hero{text-align:center;padding:70px 20px;background:linear-gradient(#000,#181818)}
+.logo{width:170px;border-radius:50%;box-shadow:0 0 30px rgba(212,175,55,.4)}
+h1{color:#d4af37;font-size:52px}
+.btn{display:inline-block;background:#d4af37;color:#111;padding:14px 24px;border-radius:10px;text-decoration:none;font-weight:bold}
+section{max-width:900px;margin:auto;padding:40px 20px}
